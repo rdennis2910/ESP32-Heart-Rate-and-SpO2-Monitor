@@ -29,3 +29,4 @@ This project is a functional heart rate and SpO2 monitor, implemented using an E
 - Install these via Arduino IDE
 
 ## Circuit Diagram
+<img width="1470" height="930" alt="Image" src="https://github.com/user-attachments/assets/955f636a-0dcd-42c0-bd57-6deaff9d5924" />
