@@ -32,5 +32,5 @@ This project is a functional heart rate and SpO2 monitor, implemented using an E
 <img width="1470" height="930" alt="Image" src="https://github.com/user-attachments/assets/955f636a-0dcd-42c0-bd57-6deaff9d5924" />
 
 ## Project Preview
-<img width="1918" height="911" alt="Image" src="https://github.com/user-attachments/assets/4fc97043-99ed-4e9b-9c6e-d15955576f9c" />
+<img width="1918" height="911" alt="Image" src="https://github.com/user-attachments/assets/e5283225-70c1-4bd8-aeca-c770740c5443" />
 <img width="1918" height="911" alt="Image" src="https://github.com/user-attachments/assets/993c27f0-dbec-4d80-95da-46e2e28c27aa" />
