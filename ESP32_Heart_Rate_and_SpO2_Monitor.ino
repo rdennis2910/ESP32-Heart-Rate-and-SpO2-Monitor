@@ -18,8 +18,8 @@ const int validSPO2Min = 70;
 const int validSPO2Max = 100;
 const int sampleCount = 100;
 
-const char* WIFI_SSID = "Your-WIFI-Name";
-const char* WIFI_PASSWORD = "Your-WIFI-Password";
+const char* WIFI_SSID = "Your-WIFI-Name"; // Change this to your Wi-Fi name
+const char* WIFI_PASSWORD = "Your-WIFI-Password"; // Change this to your Wi-fi Password
 const char* hostName = "esp32";
 
 byte readLED = 13;
