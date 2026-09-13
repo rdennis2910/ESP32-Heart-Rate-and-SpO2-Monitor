@@ -1,4 +1,4 @@
-# ESP32_Heart_Rate_and_SpO2_Monitor
+# ESP32 Heart Rate and SpO2 Monitor
 
 This project is a functional heart rate and SpO2 monitor, implemented using an ESP32 microcontroller. The microcontroller collects the readings and displays them on a 0.96" OLED display, while also sending the data to a local website that updates as new data comes in. Additionally, LEDs provide visual indicators for the validity of the readings. 
 
