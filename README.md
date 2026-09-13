@@ -1,11 +1,10 @@
 # ESP32_Heart_Rate_and_SpO2_Monitor
 
-Heart rate and SpO2 monitor with an OLED display and Wi-Fi web dashboard utilizing an ESP32
 This project is a functional heart rate and SpO2 monitor, implemented using an ESP32 microcontroller. The microcontroller collects the readings and displays them on a 0.96" OLED display, while also sending the data to a local website that updates as new data comes in. Additionally, LEDs provide visual indicators for the validity of the readings. 
 
 ## Features
 
-- Measures heart rate and SpO2 using a MAX30105 sensor
+- Measures heart rate and SpO2 using a MAX30102 sensor
 - Filters readings outside of defined valid ranges
 - Displays the last valid readings on an OLED
 - Uses LED indicators to visually show reading validity
@@ -41,7 +40,8 @@ This project is a functional heart rate and SpO2 monitor, implemented using an E
 3. Open the '.ino' file in Arduino IDE.
 4. Enter your Wi-Fi name and password in the code.
 5. Select the ESP32 board and upload the code.
-6. Place a finger firmly on the MAX30105 sensor to begin taking readings. 
+6. Place a finger firmly on the MAX30102 sensor to begin taking readings.
+7. Type esp32.local in a web browser to view the online dashboard.
 
-## Liscense
+## License
 This project is licensed under the [MIT License](LICENSE).
